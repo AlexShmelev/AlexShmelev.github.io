@@ -1,4 +1,4 @@
-# AlexShmel CV
+# AlexShmelev CV
 
 Linux 6+ years expirience, mostly on Debian based OS
 
