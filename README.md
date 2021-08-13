@@ -27,7 +27,7 @@ Internship as network engineer. CISCO/mikrotik/fortinet setup, linux networking.
 ### **Skills**
 **** 
 - **IaC:** Chef cooboks, Ansible roles and terraform stuff. Also a bit of Packer
- - **Monitoring:** Prometheus, Grafana, alertmanager, ELK stack
+ - **Monitoring:** Prometheus, Grafana, alertmanager, ELK stack; Deploy and support, custom metrics with python prometheus_exporter lib, logstash 
  - **Development:** Internal tool for autotesting company product [acra-server](https://cossacklabs.com/acra). Linux  [tablets](https://3dmagic-innovations.com/wp-content/uploads/2019/11/studio.jpg) for cinema studio. RaspberryPi with a lot of magic inside them. Custom DDoS load testing tool using iperf3 and infinity amount of DigitalOcean droplets. Cloud filesystem LUKS encryption
  - **Automation:** Bash, Python, Ruby all purpose scripting
  - **Linux stuff:** Networking, routing (multiple route tables), iptables (firewalls and port forwarding), systemd (writing unit files), initramfs (rebuild with custom scripts), mdadm, LVM, LUKS, docker, nginx (also as load balancer)
@@ -36,11 +36,11 @@ Internship as network engineer. CISCO/mikrotik/fortinet setup, linux networking.
  - **DB:** Mariadb and PostgreSQL clusters, replication and backup setup
  - **Tunneling:** Tinc, openvpn, ipsec strongswan
  - **Other:** Lockpicking, fast learning, good at teaching other people, confident public speaker. Used to spoke at cyber security conferencess as lokpicker.
- Admin of my own telegram channel [Infrastructure Engineer](https://t.me/cyber_shmel), Manager at Kyiv [DefCon8044](https://t.me/DC8044_Info) Radio station [44.WAV-E](https://radio.dc8044.com). Used to play some CTF challenges, also solwed few HackTheBox machines. Currently reading "Unix and Linux system administration handbook" at random capters.
- 
+ Admin of my own telegram channel [Infrastructure Engineer](https://t.me/cyber_shmel), Manager at Kyiv [DefCon8044](https://t.me/DC8044_Info) Radio station [44.WAV-E](https://radio.dc8044.com). Used to play some CTF challenges, also solwed few HackTheBox machines.
+
 ### **Projects**
 **** 
- - **[up.vision](https://up.vision):** Build infrastructure, prod/stage environments, nginx, docker, postgresql replications, ganeti cluster, tinc network.
+ - **[up.vision](https://up.vision):** Build infrastructure, prod/stage environments, nginx, docker, postgresql replications, ganeti cluster, tinc network. Monitoring with Prometheus, Alertmanager, grafana. Java app logs collected to ELK
  All managed by Chef, initial provisioning with Terraform + Ansible on Digitalocean droplets. All VM have LUKS encryption. 
  - **PeaceDDoS:** Internal tool for DDoS to load test our services using python iperf3 and infinite amount of DigitalOcean droplets
  - **Project (1,2):**: Build infrastructure for project that serves metrics from industrial tech in friendly web interface.
@@ -50,3 +50,10 @@ Mass production of Raspberry Pi devices with preinstalled software, such as cust
  - **Project (4):** Design instrument for auto deploy a complex demo stand of Enterprise Edition [acra-server](https://cossacklabs.com/acra). Terraform, packer, ansible, bash, python, black magic, DigitalOcean API.
  - **Project (5):** Develop a tool for automation LUKS encryption of cloud VM, such as DigitalOcean, Hetzner, Linode. Terraform, Ansible, Bash
  - **Project (6):** Ansible + bash + python scripts for autogeneration openvpn configs for multiple clients. Fast vpn server setup
+
+
+### **Info\plans**
+**** 
+Currently reading "Unix and Linux system administration handbook" at random capters.
+Wanna get experience with AWS and Kubernetes so i can fit in any DevOps job offer.
+Wanna work fully remote and showing up in office once in a few monts.
