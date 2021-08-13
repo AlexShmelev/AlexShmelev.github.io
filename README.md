@@ -52,8 +52,8 @@ Mass production of Raspberry Pi devices with preinstalled software, such as cust
  - **Project (6):** Ansible + bash + python scripts for autogeneration openvpn configs for multiple clients. Fast vpn server setup
 
 
-### **Info\plans**
+### **Other**
 **** 
 Currently reading "Unix and Linux system administration handbook" at random capters.
 Wanna get experience with AWS and Kubernetes so i can fit in any DevOps job offer.
-Wanna work fully remote and showing up in office once in a few monts.
+Dream of full remote and showing up in office once in a few months. I do like a good evening in bar with friends and colleagues.
