@@ -30,7 +30,7 @@ Internship as network engineer. CISCO/mikrotik/fortinet setup, linux networking.
  - **Monitoring:** Prometheus, Grafana, alertmanager, ELK stack
  - **Development:** Internal tool for autotesting company product [acra-server](https://cossacklabs.com/acra). Linux  [tablets](https://3dmagic-innovations.com/wp-content/uploads/2019/11/studio.jpg) for cinema studio. RaspberryPi with a lot of magic inside them. Custom DDoS load testing tool using iperf3 and infinity amount of DigitalOcean droplets. Cloud filesystem LUKS encryption
  - **Automation:** Bash, Python, Ruby all purpose scripting
- - **Linux stuff:** Networking, routing, iptables, systemd, initramfs, mdadm, LVM, LUKS, docker, nginx
+ - **Linux stuff:** Networking, routing (multiple route tables), iptables (firewalls and port forwarding), systemd (writing unit files), initramfs (rebuild with custom scripts), mdadm, LVM, LUKS, docker, nginx (also as load balancer)
  - **Cloud:** Digitalocean, Linode, Hetzner; Mass deploy of VMs using Terraform, Packer or API requests. 
  - **VM:** Ganeti cluster setup and VMs inside it using 1 public ip. Proxmox VMs setup for general use
  - **DB:** Mariadb and PostgreSQL clusters, replication and backup setup
