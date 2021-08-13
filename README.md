@@ -23,7 +23,8 @@ Junior linux\network administrator, ELK setup and support for mikrotik netflow l
 Internship as network engineer. CISCO/mikrotik/fortinet setup, linux networking.
 
 ### **Skills**
- - **IaC:** Chef cooboks, Ansible roles and terraform stuff. Also a bit of Packer
+**** 
+- **IaC:** Chef cooboks, Ansible roles and terraform stuff. Also a bit of Packer
  - **Monitoring:** Prometheus, Grafana, alertmanager, ELK stack
  - **Development:** Internal tool for autotesting company product [acra-server](https://cossacklabs.com/acra). Linux  [tablets](https://3dmagic-innovations.com/wp-content/uploads/2019/11/studio.jpg) for cinema studio. RaspberryPi with a lot of magic inside them. Custom DDoS load testing tool using iperf3 and infinity amount of DigitalOcean droplets. Cloud filesystem LUKS encryption
  - **Automation:** Bash, Python, Ruby all purpose scripting
@@ -36,6 +37,7 @@ Internship as network engineer. CISCO/mikrotik/fortinet setup, linux networking.
  Admin of my own telegram channel [Infrastructure Engineer](https://t.me/cyber_shmel), Manager at Kyiv [DefCon8044](https://t.me/DC8044_Info) Radio station [44.WAV-E](https://radio.dc8044.com). 
  
 ### **Projects**
+**** 
  - **[up.vision](https://up.vision):** Build infrastructure, prod/stage environments, nginx, docker, postgresql replications, ganeti cluster, tinc network.
  All managed by Chef, initial provisioning with Terraform + Ansible on Digitalocean droplets. All VM have LUKS encryption. 
  - **PeaceDDoS:** Internal tool for DDoS to load test our services using python iperf3 and infinite amount of DigitalOcean droplets
