@@ -5,7 +5,9 @@ Linux 6+ years expirience, mostly on Debian based OS
 Networking, scripting, lockpicking
 
 [Telegram] t.me/alexshmel
+
 [Email] demigrant@protonmail.com
+
 ### Jobs
 ****
 #### Cossack Labs / RockeTech 2019-...
