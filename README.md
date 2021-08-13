@@ -2,7 +2,7 @@
 
 Linux 6+ years expirience, mostly on Debian based OS
 
-Networking, scripting, lockpicking
+Scripting, deployment, networking
 
 [Telegram] t.me/alexshmel
 
@@ -16,7 +16,7 @@ Other tasks included development of internal tools and services, automation task
 
 #### Hacken 2018-2019
 Support\monitoring of office network, Windows AD, local task tracker.
-Security consulting and auditing, phishing awareness training, speeches at conferences as lookpicker.
+Security consulting and auditing, phishing awareness training, speeches at conferences as lookpicker
 
 #### NOC service 2017-2018
 Junior linux\network administrator, ELK setup and support for mikrotik netflow logs and events. Bash scripting for routine automation. 
@@ -35,7 +35,7 @@ Internship as network engineer. CISCO/mikrotik/fortinet setup, linux networking.
  - **VM:** Ganeti cluster setup and VMs inside it using 1 public ip. Proxmox VMs setup for general use
  - **DB:** Mariadb and PostgreSQL clusters, replication and backup setup
  - **Tunneling:** Tinc, openvpn, ipsec strongswan
- - **Other:** Lockpicking, fast learning, good at teaching other people, confident public speaker. Used to spoke at conferencess as lokpicker.
+ - **Other:** Lockpicking, fast learning, good at teaching other people, confident public speaker. Used to spoke at cyber security conferencess as lokpicker.
  Admin of my own telegram channel [Infrastructure Engineer](https://t.me/cyber_shmel), Manager at Kyiv [DefCon8044](https://t.me/DC8044_Info) Radio station [44.WAV-E](https://radio.dc8044.com). 
  
 ### **Projects**
