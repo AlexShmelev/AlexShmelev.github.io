@@ -1,7 +1,9 @@
 # AlexShmel CV
 
 Linux 6+ years expirience, mostly on Debian based OS
+
 Networking, scripting, lockpicking
+
 [Telegram](https://t.me/alexshmel)
 
 #### Cossack Labs / RockeTech 2019-...
