@@ -36,7 +36,7 @@ Internship as network engineer. CISCO/mikrotik/fortinet setup, linux networking.
  - **DB:** Mariadb and PostgreSQL clusters, replication and backup setup
  - **Tunneling:** Tinc, openvpn, ipsec strongswan
  - **Other:** Lockpicking, fast learning, good at teaching other people, confident public speaker. Used to spoke at cyber security conferencess as lokpicker.
- Admin of my own telegram channel [Infrastructure Engineer](https://t.me/cyber_shmel), Manager at Kyiv [DefCon8044](https://t.me/DC8044_Info) Radio station [44.WAV-E](https://radio.dc8044.com). 
+ Admin of my own telegram channel [Infrastructure Engineer](https://t.me/cyber_shmel), Manager at Kyiv [DefCon8044](https://t.me/DC8044_Info) Radio station [44.WAV-E](https://radio.dc8044.com). Used to play some CTF challenges, also solwed few HackTheBox machines. Currently reading "Unix and Linux system administration handbook" at random capters.
  
 ### **Projects**
 **** 
