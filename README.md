@@ -10,7 +10,7 @@ Scripting, deployment, networking
 
 ### Jobs
 ****
-#### Cossack Labs / RockeTech 2019-...
+#### Cossack Labs \ RockeTech 2019-...
 Working as an infrastructure engineer, my main task is to build and maintain infrastructures for different projects.
 Other tasks included the development of internal tools and services, automation tasks, alert response.
 
