@@ -54,6 +54,4 @@ Mass production of Raspberry Pi devices with preinstalled software, such as cust
 
 ### **Other**
 **** 
-Currently reading "Unix and Linux system administration handbook" at random chapters.
-Wanna get experience with AWS and Kubernetes so I can fit in any DevOps job offer.
-Dream of full remote and showing up in office once in a few months. I do like a good evening in a bar with friends and colleagues.
+Other human things I do include reading “Unix and Linux system administration handbook” (in a random order of chapters). I'm seeking a solid experience with AWS and Kubernetes so I can land any DevOps project smoothly. My dream job offer would include a full-time remote, but I wouldn't mind showing up in the office once or twice in a few months. I do like a good evening in a bar or outdoors with friends and colleagues.
