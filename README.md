@@ -10,7 +10,10 @@ Scripting, deployment, networking
 
 ### Jobs
 ****
-#### Cossack Labs \ RockeTech 2019-...
+#### evo.company \ prom.ua 2019-2021
+DevOps; Automatisation; Kubernetes administrator
+
+#### Cossack Labs \ RockeTech 2019-2021
 Working as an infrastructure engineer, my main task is to build and maintain infrastructures for different projects.
 Other tasks included the development of internal tools and services, automation tasks, alert response.
 
