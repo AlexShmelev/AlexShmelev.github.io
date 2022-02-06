@@ -10,7 +10,7 @@ Scripting, deployment, networking
 
 ### Jobs
 ****
-#### evo.company \ prom.ua 2019-2021
+#### evo.company \ prom.ua 2021-...
 DevOps; Automatisation; Kubernetes administrator
 
 #### Cossack Labs \ RockeTech 2019-2021
@@ -56,4 +56,4 @@ Mass production of Raspberry Pi devices with preinstalled software, such as cust
 
 
 **** 
-I'm seeking a solid experience with clouds (AWS, Azure) and Kubernetes so I can land any DevOps project smoothly. My dream job offer would include a full-time remote, but I wouldn't mind showing up in the office once or twice in a few months.
+I'm seeking a solid experience with clouds (AWS, GCP) and Kubernetes so I can land any DevOps project smoothly. My dream job offer would include a full-time remote, but I wouldn't mind showing up in the office once or twice in a few months.
